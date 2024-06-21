@@ -31,3 +31,19 @@ This project is a minimal and responsive e-commerce website built using React an
    ```bash
    git clone https://github.com/VivBelwal/myindia.git
    
+2. **Install dependecy:**
+   `npm install`
+
+3. **Start the development server:**
+  
+   `npm start`
+
+   ## Usage
+
+1. A welcome message and a brief description of the store.
+2. Categories of products with attractive images and brief titles.
+3. Call-to-action buttons for users to navigate to the products or learn more about the store.
+
+
+## Deployed Link
+[https://myindiaecommerce.netlify.app/](https://myindiaecommerce.netlify.app/)

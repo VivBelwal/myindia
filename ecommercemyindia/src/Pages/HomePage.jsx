@@ -2,6 +2,7 @@ import React from 'react';
 import electronics from "../assests/electronics.avif";
 import clothing from "../assests/clothing.jpeg";
 import jwellery from "../assests/jewllery.avif"
+import { Link } from 'react-router-dom';
 const HomePage = () => {
   return (
     <div className="container mx-auto p-4">
@@ -23,7 +24,7 @@ const HomePage = () => {
           </div>
         </div>
         <div className="mt-12 flex space-x-4">
-          <a href="/products" className="bg-blue-600 text-white px-6 py-3 rounded-full hover:bg-blue-500 transition duration-300">Shop Now</a>
+          <Link to="/products" className="bg-blue-600 text-white px-6 py-3 rounded-full hover:bg-blue-500 transition duration-300">Shop Now</Link>
         </div>
       </div>
     </div>
