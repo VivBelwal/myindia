@@ -7,7 +7,11 @@ This project is a minimal and responsive e-commerce website built using React an
 ## Features
 
 - **Responsive Design**: The website is fully responsive and works on all screen sizes.
+![Product Page xl screen](image-1.png)
+![Product Page md screen](image-2.png)
 - **Home Page**: A minimal and creative home page with a brief about the products.
+
+![Home Page](image.png)
 - **Navigation Bar**: A responsive navigation bar for easy navigation.
 - **Footer**: A simple and clean footer.
 - **Copyright Bar**: A copyright bar included at the bottom of the page.
